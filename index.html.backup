@@ -11,32 +11,12 @@
 
 <link rel="icon" type="./images/icone.png" href="favicon_URL" sizes="32x32">
 
-<!-- <CENTER><H1> João Fernando Mari </H1></CENTER>
+<CENTER><H1> João Fernando Mari </H1></CENTER>
 
 <CENTER><IMG SRC="./images/profile_photo.jpg" ALIGN="BOTTOM", HEIGHT="200"> </CENTER>
 
 <CENTER><H2> Universidade Federal de Viçosa - Campus Rio Paranaíba </H2></CENTER>
-<CENTER><H3> Professor Adjunto - Sistemas de Informação </H3></CENTER> -->
-
-<table border="0" width="100%">
-    <tr>
-        <td>
-            <IMG SRC="./images/profile_photo.jpg" ALIGN="BOTTOM", HEIGHT="190"> 
-        </td>
-        <td></td>
-        <td>
-            <H1> João Fernando Mari </H1>
-            <H3> Universidade Federal de Viçosa <br> Campus Rio Paranaíba </H3>
-
-            <H4> Professor Adjunto - Sistemas de Informação </H4>
-        </td>
-        <td>
-            <IMG SRC="./images/ufv_logo.png" ALIGN="BOTTOM", HEIGHT="140"> 
-        </td>
-    </tr>
-</table>
-
-<HR>
+<CENTER><H3> Professor Adjunto - Sistemas de Informação </H3></CENTER>
 
 <center>
 <a href="http://lattes.cnpq.br/3582704696209050" target="_blank">Lattes</a> --
@@ -120,7 +100,7 @@
 
 <H3>Principais Publicações:</H3>
 
-<H3>Periódicos:</H3>
+<H4>Periódicos:</H4>
 
 <ul>
 <li>
@@ -155,7 +135,7 @@ Saito J. S.; <b>Mari, J. F.</b>; Pedrino E.; Destro-Filho, J.B.; Nicoletti M. C.
 
 </ul>
 
-<H3>Conferências:</H3>
+<H4>Conferências:</H4>
 <ul>
 
 <h4>2020</h4>
@@ -211,9 +191,8 @@ Erik Lucas da Rocha; Larissa Rodrigues; <b>João Fernando Mari</b>.
 Faria, L.C.; Rodrigues, L.F.; <b>Mari, J.F.</b>
 <i>Cell classification using handcrafted features and bag of visual words.</i>
 <b>XIV Workshop de Visão Computacional (WVC).</b> Ilhéus - BA, 2018. p. 68-73.
-<p style="color:red">
+<p></p>
 <b>* BEST PAPER AWARD</b>
-</p>
 </li>
 
 <h4>2017</h4>
@@ -230,9 +209,8 @@ Rodrigues, L.F.; NALDI, M.C.; <b>Mari, J.F.</b>
 Gonçalves, W.F.; Rodrigues, R.J.; <b>Mari, J.F.</b>
 <i>Improving the definition of markers for the watershed transform by combining h-maxima transform and convex-hull.</i>
 <b>XIII Workshop de Visão Computacional (WVC).</b> Natal - RN, 2017. p. 124-129.
-<p style="color:red">
+<p></p>
 <b>* BEST POSTER AWARD</b>
-</p>
 </li>
 
 <p></p>
@@ -276,7 +254,7 @@ Rodrigues, L.F.; Silva, J.H.; Gondin, P.H.C.C.; Mari, J.F.
 
 </ul>
 
-<H2>Lista completa de publicações:</H2>
+<H3>Lista completa de publicações:</H3>
 
 <ul>
 <li><P><a href="http://lattes.cnpq.br/3582704696209050" target="_blank">Curriculo Lattes</a></P></li>
@@ -491,8 +469,7 @@ em imagens de microscopia</li>
 <!-- <br><a href="https://www.webcontadores.com">contador de visitas online</a><noscript><a href="https://www.webcontadores.com" title="contador de visitas online"><img src="https://counter8.stat.ovh/private/webcontadores.php?c=juh77t6zmzgegjtadtguawsem3te5t1p" border="0" title="contador de visitas online" alt="contador de visitas online"></a></noscript> -->
 
 
-Última atualização: 2021/08/13
-<p></p>
+Última atualização: 2021/08/03
 
 </BODY>  
 
