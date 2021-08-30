@@ -3,6 +3,13 @@
 <META CHARSET="UTF-8"/>
 <TITLE>João Fernando Mari</TITLE>
 
+<!--
+Referencias:
+------------
+[1] Links em botões:
+      https://stackoverflow.com/questions/710089/how-do-i-make-an-html-link-look-like-a-button
+-->
+
 </HEAD>  
 
 <BODY BGCOLOR="FFFFFF" style="width:800px;min-width:800px;margin:auto;font-family: helvetica,arial">
@@ -53,6 +60,18 @@
 
 <HR>
 
+    <p><a href="#AREAS"  target="_blank">ÁREAS DE INTERESSE</a><br>
+    <a href="#FORMACAO"  target="_blank">FORMAÇÃO</a><br>
+    <a href="#TUTORIAIS"  target="_blank">TUTORIAIS, TEXTOS E NOTAS</a><br>
+    <a href="#PUBLICACOES"  target="_blank">PUBLICAÇÕES</a><br>
+    <a href="#ENSINO"  target="_blank">ENSINO</a><br>
+    <a href="#PROJETOS"  target="_blank">PROJETOS</a><br>
+    <a href="#ORIENTACOES"  target="_blank">ORIENTAÇÕES</a><br>
+    <a href="#CONTATO"  target="_blank">CONTATO</a></p>
+
+<HR>
+
+<div id="AREAS"></div>
 <H2>ÁREAS DE INTERESSE:</H2>
 
 <ul>
@@ -74,7 +93,8 @@
 </ul>
 
 <HR>
-
+    
+<div id="FORMACAO"></div>
 <H2>FORMAÇÃO:</H2>
 
 <ul>
@@ -104,7 +124,8 @@
 
 <HR>
 
-<H2>TUTORIAIS, TEXTOS E NOTAS TÉCNICAS:</H2>
+<div id="TUTORIAIS"></div>
+<H2>TUTORIAIS, TEXTOS E NOTAS:</H2>
     
 <ul>
 <li><H3><a href="./textos/recursos.html" target="_blank">Recursos</a></H3></li>
@@ -116,6 +137,7 @@
 
 <HR>
 
+<div id="PUBLICACOES"></div>
 <H2>PUBLICAÇÕES:</H2>
 
 <H3>Principais Publicações:</H3>
@@ -130,7 +152,10 @@ Rodrigues, L. F.; Naldi M. C., <b>Mari, J. F.</b>
 </li>
 
 <ul>
-<li><P><a href="https://doi.org/10.1016/j.compbiomed.2019.103542" target="_blank">https://doi.org/10.1016/j.compbiomed.2019.103542</a></P></li>
+    <!-- <li><P><a href="https://doi.org/10.1016/j.compbiomed.2019.103542" target="_blank">https://doi.org/10.1016/j.compbiomed.2019.103542</a></P></li> -->
+    <form method="GET" target="_blank" action="https://doi.org/10.1016/j.compbiomed.2019.103542">
+    <input type="submit" target="_blank" value="Artigo">
+    </form>
 </ul>
 
 <li>
@@ -162,12 +187,15 @@ Saito J. S.; <b>Mari, J. F.</b>; Pedrino E.; Destro-Filho, J.B.; Nicoletti M. C.
     <li>
         Leandro Silva; Jocival Dias Jr.; Jean Santos; <b>João Fernando Mari</b>; Maurício Escarpinati; André Backes.
         <i>Non-linear Distortion Recognition in UAVs? Images using Deep Learning</i>
-        <b>16th International Conference on Computer Vision Theory and Applications. </b>, Online Streaming,  2021. p. 447. 
-        <p style="color:red">
+        <b>16th International Conference on Computer Vision Theory and Applications. </b>, Online Streaming,  2021. p. 447.  <span style="color:red">[ NOVO! ]</span>
+        <!-- <p style="color:red">
             <b>[[ NOVO! ]]</b>
-        </p>
+        </p> -->
         <ul>
-            <li><P><a href=" https://www.scitepress.org/Papers/2021/103095/103095.pdf" target="_blank"> https://www.scitepress.org/Papers/2021/103095/103095.pdf</a></P></li>
+            <!-- <li><P><a href=" https://www.scitepress.org/Papers/2021/103095/103095.pdf" target="_blank"> https://www.scitepress.org/Papers/2021/103095/103095.pdf</a></P></li> -->
+            <form method="GET" target="_blank" action="https://www.scitepress.org/Papers/2021/103095/103095.pdf">
+            <input type="submit" target="_blank" value="Artigo">
+            </form>
         </ul>
        
     </li>
@@ -180,7 +208,10 @@ Matheus da Silva; Larissa Rodrigues; <b>João Fernando Mari</b>.
 <b>XVI Workshop de Visão Computacional (WVC).</b> Uberlândia - MG, 2020. p. 46-51. 
 </li>
 <ul>
-<li><P><a href="https://sol.sbc.org.br/index.php/wvc/article/view/13479" target="_blank">https://sol.sbc.org.br/index.php/wvc/article/view/13479</a></P></li>
+    <!-- <li><P><a href="https://sol.sbc.org.br/index.php/wvc/article/view/13479" target="_blank">https://sol.sbc.org.br/index.php/wvc/article/view/13479</a></P></li> -->
+    <form method="GET" target="_blank" action="https://sol.sbc.org.br/index.php/wvc/article/view/13479">
+    <input type="submit" target="_blank" value="Artigo">
+    </form>
 </ul>
 
 <li>
@@ -303,6 +334,7 @@ Rodrigues, L.F.; Silva, J.H.; Gondin, P.H.C.C.; Mari, J.F.
 
 <HR>
 
+<div id="ENSINO"></div>
 <H2>ENSINO:</H2>
 
 <H3>Introdução ao Processamento de Imagens (SIN 392)</H3>
@@ -330,6 +362,7 @@ Rodrigues, L.F.; Silva, J.H.; Gondin, P.H.C.C.; Mari, J.F.
 
 <HR>
 
+<div id="PROJETOS"></div>
 <H2>PROJETOS:</H2>
 
 <li>Métodos de segmentação de células em imagens de microscopia baseado na transformada watershed</li>
@@ -373,6 +406,7 @@ Rodrigues, L.F.; Silva, J.H.; Gondin, P.H.C.C.; Mari, J.F.
 
 <HR>
 
+<div id="ORIENTACOES"></div>
 <H2>ORIENTAÇÕES EM ANDAMENTO:</H2>
 
 <HR>
@@ -487,6 +521,7 @@ em imagens de microscopia</li>
 
 <HR>
 
+<div id="CONTATO"></div>
 <H2>CONTATO:</H2>
 
 <H3>Endereço profissional: </H3>
@@ -508,7 +543,7 @@ em imagens de microscopia</li>
 <!-- <br><a href="https://www.webcontadores.com">contador de visitas online</a><noscript><a href="https://www.webcontadores.com" title="contador de visitas online"><img src="https://counter8.stat.ovh/private/webcontadores.php?c=juh77t6zmzgegjtadtguawsem3te5t1p" border="0" title="contador de visitas online" alt="contador de visitas online"></a></noscript> -->
 
 
-Última atualização: 2021/08/13
+Última atualização: 2021/08/28
 <p></p>
 
 </BODY>  
